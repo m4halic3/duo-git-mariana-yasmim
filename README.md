@@ -1,1 +1,1 @@
-# duo-git-mariana-yasmim (atividade de PWIII)
+# duo-git-mariana-yasmim - Atividade de Git e GitHub
